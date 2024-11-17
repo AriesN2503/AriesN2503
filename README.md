@@ -1,7 +1,8 @@
 <div align="center">
   <div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 900px; margin: 0 auto;">
     <div style="text-align: left;">
-      <h3><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="Wave"> Xin chào | Hi | Hello!</h3>
+      <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="Wave">
+      <h3>Xin chào | Hi | Hello!</h3>
       <h3>I am Truong Huy</h3>
       <p><i>Frontend Developer</i></p>
     </div>
