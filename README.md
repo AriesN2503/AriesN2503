@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm Le Pham Truong Huy, a Frontend Developer passionate about crafting interactive and user-friendly web experiences. My journey in web development is driven by a love for coding, a keen eye for design, and a dedication to delivering high-quality applications.  
+Welcome to my GitHub profile! I'm <strong>Le Pham Truong Huy</strong>, a <strong>Frontend Developer</strong> passionate about crafting interactive and user-friendly web experiences. My journey in web development is driven by a love for coding, a keen eye for design, and a dedication to delivering high-quality applications.  
 
 I specialize in building responsive and modern web interfaces using ReactJS and other frontend technologies. My focus is on creating seamless and visually appealing user experiences while continuously learning and improving my skills.
 
