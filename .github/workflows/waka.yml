@@ -26,7 +26,8 @@ jobs:
           LANG_COUNT: 6
           SHOW_TIME: true
           SHOW_TOTAL: true
-          CODE_LANG: text
+          CODE_LANG: txt
           COMMIT_MESSAGE: "chore: update wakatime stats"
+          TARGET_BRANCH: main
 
           # Add WAKATIME_API_KEY in repository secrets before enabling this workflow.
