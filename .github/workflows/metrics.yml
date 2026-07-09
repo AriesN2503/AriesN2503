@@ -1,0 +1,46 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    name: Build metrics dashboard
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Generate github-metrics.svg
+        uses: lowlighter/metrics@master
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AriesN2503
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update github metrics"
+          plugins_errors_fatal: yes
+
+          # Add METRICS_TOKEN in repository secrets.
+          # Recommended scopes: public_repo, read:user, read:org.
