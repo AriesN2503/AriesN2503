@@ -133,7 +133,13 @@ My work combines UI/UX thinking with practical engineering: REST API integration
 <div align="center">
 
 <!--START_SECTION:waka-->
-<img src="https://img.shields.io/badge/WakaTime-Waiting%20for%20WAKATIME_API_KEY-2563EB?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=111827" alt="WakaTime setup pending" />
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 </div>
