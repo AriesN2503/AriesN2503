@@ -42,50 +42,50 @@ My work combines UI/UX thinking with practical engineering: REST API integration
   <tr>
     <td align="center" width="180"><strong>Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/TypeScript-0EA5E9?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-0EA5E9?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/HTML5-0EA5E9?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-0EA5E9?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/SQL-0EA5E9?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      <img src="https://img.shields.io/badge/TypeScript-082F49?style=flat-square&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/JavaScript-082F49?style=flat-square&logo=javascript&logoColor=38BDF8" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5-082F49?style=flat-square&logo=html5&logoColor=38BDF8" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-082F49?style=flat-square&logo=css3&logoColor=38BDF8" alt="CSS3" />
+      <img src="https://img.shields.io/badge/SQL-082F49?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="SQL" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-0EA5E9?style=flat-square&logo=react&logoColor=white" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-0EA5E9?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Sass-0EA5E9?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
-      <img src="https://img.shields.io/badge/shadcn%2Fui-0EA5E9?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-      <img src="https://img.shields.io/badge/Ant%20Design-0EA5E9?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+      <img src="https://img.shields.io/badge/React-082F49?style=flat-square&logo=react&logoColor=38BDF8" alt="React" />
+      <img src="https://img.shields.io/badge/Next.js-082F49?style=flat-square&logo=nextdotjs&logoColor=38BDF8" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-082F49?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Sass-082F49?style=flat-square&logo=sass&logoColor=38BDF8" alt="Sass" />
+      <img src="https://img.shields.io/badge/shadcn%2Fui-082F49?style=flat-square&logo=shadcnui&logoColor=38BDF8" alt="shadcn/ui" />
+      <img src="https://img.shields.io/badge/Ant%20Design-082F49?style=flat-square&logo=antdesign&logoColor=38BDF8" alt="Ant Design" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-0EA5E9?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-0EA5E9?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/MongoDB-0EA5E9?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Node.js-082F49?style=flat-square&logo=nodedotjs&logoColor=38BDF8" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-082F49?style=flat-square&logo=express&logoColor=38BDF8" alt="Express" />
+      <img src="https://img.shields.io/badge/MongoDB-082F49?style=flat-square&logo=mongodb&logoColor=38BDF8" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-082F49?style=flat-square&logo=mysql&logoColor=38BDF8" alt="MySQL" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-0EA5E9?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS%20Code-0EA5E9?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Figma-0EA5E9?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Postman-0EA5E9?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+      <img src="https://img.shields.io/badge/Git-082F49?style=flat-square&logo=git&logoColor=38BDF8" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-082F49?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub" />
+      <img src="https://img.shields.io/badge/VS%20Code-082F49?style=flat-square&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Figma-082F49?style=flat-square&logo=figma&logoColor=38BDF8" alt="Figma" />
+      <img src="https://img.shields.io/badge/Postman-082F49?style=flat-square&logo=postman&logoColor=38BDF8" alt="Postman" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>Deployment & Analytics</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Linux-0EA5E9?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-      <img src="https://img.shields.io/badge/Caddy-0EA5E9?style=flat-square&logo=caddy&logoColor=white" alt="Caddy" />
-      <img src="https://img.shields.io/badge/PM2-0EA5E9?style=flat-square&logo=pm2&logoColor=white" alt="PM2" />
-      <img src="https://img.shields.io/badge/Google%20Analytics%204-0EA5E9?style=flat-square&logo=googleanalytics&logoColor=white" alt="Google Analytics 4" />
+      <img src="https://img.shields.io/badge/Linux-082F49?style=flat-square&logo=linux&logoColor=38BDF8" alt="Linux" />
+      <img src="https://img.shields.io/badge/Caddy-082F49?style=flat-square&logo=caddy&logoColor=38BDF8" alt="Caddy" />
+      <img src="https://img.shields.io/badge/PM2-082F49?style=flat-square&logo=pm2&logoColor=38BDF8" alt="PM2" />
+      <img src="https://img.shields.io/badge/Google%20Analytics%204-082F49?style=flat-square&logo=googleanalytics&logoColor=38BDF8" alt="Google Analytics 4" />
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@ My work combines UI/UX thinking with practical engineering: REST API integration
 <br />
 <br />
 
-<img width="96%" src="https://streak-stats.demolab.com?user=AriesN2503&theme=transparent&hide_border=true&background=00000000&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9&sideLabels=0EA5E9&dates=64748B" alt="GitHub streak" />
+<img width="96%" src="https://streak-stats.demolab.com?user=AriesN2503&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=38BDF8&amp;fire=0EA5E9&amp;currStreakLabel=CBD5E1" alt="GitHub streak" />
 
 <br />
 <br />
@@ -126,11 +126,42 @@ My work combines UI/UX thinking with practical engineering: REST API integration
 
 <br />
 
+## 🤝 Community Contributions
+
+<div align="center">
+
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAriesN2503">
+  <img src="https://img.shields.io/badge/Pull%20Requests-135-082F49?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8&amp;labelColor=0F172A" alt="Opened pull requests" />
+</a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAriesN2503">
+  <img src="https://img.shields.io/badge/Contributed%20Repos-11-082F49?style=for-the-badge&amp;logo=git&amp;logoColor=38BDF8&amp;labelColor=0F172A" alt="Repositories contributed to through pull requests" />
+</a>
+<a href="https://github.com/issues?q=is%3Aissue+author%3AAriesN2503">
+  <img src="https://img.shields.io/badge/Issues-0-082F49?style=for-the-badge&amp;logo=github&amp;logoColor=38BDF8&amp;labelColor=0F172A" alt="Opened issues" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/AriesN2503?tab=followers">
+  <img src="https://img.shields.io/badge/Followers-1-0EA5E9?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=082F49" alt="GitHub followers" />
+</a>
+<a href="https://github.com/AriesN2503?tab=following">
+  <img src="https://img.shields.io/badge/Following-2-0EA5E9?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=082F49" alt="GitHub following" />
+</a>
+<a href="https://github.com/AriesN2503?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repos-5-0EA5E9?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=082F49" alt="Public repositories" />
+</a>
+
+</div>
+
+<br />
+
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img width="96%" src="https://raw.githubusercontent.com/AriesN2503/AriesN2503/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+<img width="98%" src="https://raw.githubusercontent.com/AriesN2503/AriesN2503/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 
 </div>
 
@@ -140,32 +171,7 @@ My work combines UI/UX thinking with practical engineering: REST API integration
 
 <div align="center">
 
-<img width="96%" src="https://metrics.lecoq.io/AriesN2503?template=classic&amp;base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&amp;config.timezone=Asia%2FHo_Chi_Minh&amp;config.display=large&amp;config.padding=0%2C8%20%2B%2011%25&amp;plugin.isocalendar=true&amp;plugin.isocalendar.duration=full-year" alt="GitHub metrics overview" />
-
-<br />
-<br />
-
-<img width="47%" src="https://metrics.lecoq.io/AriesN2503?template=classic&amp;base=&amp;config.timezone=Asia%2FHo_Chi_Minh&amp;plugin.languages=true&amp;plugin.languages.sections=most-used%2Crecently-used&amp;plugin.languages.limit=8" alt="GitHub metrics languages" />
-<img width="47%" src="https://metrics.lecoq.io/AriesN2503?template=classic&amp;base=&amp;config.timezone=Asia%2FHo_Chi_Minh&amp;plugin.habits=true&amp;plugin.habits.facts=true&amp;plugin.habits.charts=true&amp;plugin.achievements=true" alt="GitHub metrics habits and achievements" />
-
-</div>
-
-<br />
-
-## ⏱️ WakaTime
-
-<!-- Add WAKATIME_API_KEY as a repository secret before running .github/workflows/waka.yml. -->
-<div align="center">
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+<img width="96%" src="https://metrics.lecoq.io/AriesN2503?template=classic&amp;base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&amp;config.timezone=Asia%2FHo_Chi_Minh&amp;plugin.achievements=true&amp;plugin.languages=true&amp;plugin.languages.sections=most-used%2Crecently-used&amp;plugin.habits=true&amp;plugin.habits.facts=true&amp;plugin.habits.charts=true&amp;plugin.isocalendar=true&amp;plugin.isocalendar.duration=full-year" alt="GitHub metrics dashboard" />
 
 </div>
 
@@ -187,7 +193,7 @@ No activity tracked
 
 <div align="center">
 
-<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Developer Inspiration" />
+<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Inspiration" />
 
 </div>
 
