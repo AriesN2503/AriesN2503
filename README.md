@@ -80,28 +80,28 @@ My work combines UI/UX thinking with practical engineering: REST API integration
 
 <br />
 
-<h3 align="left">📊 GitHub Analytics</h3>
+<h4 align="left">📊 GitHub Analytics</h4>
 
 <div align="center">
 
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AriesN2503&amp;theme=github_dark" alt="GitHub Stats" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AriesN2503&amp;theme=github_dark" alt="Top Languages" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AriesN2503&amp;theme=github_dark" alt="GitHub Stats" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AriesN2503&amp;theme=github_dark" alt="Top Languages" />
 
 <br />
 <br />
 
-<img width="88%" src="https://streak-stats.demolab.com?user=AriesN2503&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=CBD5E1" alt="GitHub Streak" />
+<img width="82%" src="https://streak-stats.demolab.com?user=AriesN2503&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=8B5CF6&fire=60A5FA&currStreakLabel=CBD5E1" alt="GitHub Streak" />
 
 <br />
 <br />
 
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AriesN2503&amp;theme=github_dark" alt="Most Commit Language" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AriesN2503&amp;theme=github_dark&amp;utcOffset=7" alt="Productive Time" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AriesN2503&amp;theme=github_dark" alt="Most Commit Language" />
+<img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AriesN2503&amp;theme=github_dark&amp;utcOffset=7" alt="Productive Time" />
 
 <br />
 <br />
 
-<img width="88%" src="https://trophy.ryglcloud.net/?username=AriesN2503&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=6" alt="GitHub Trophies" />
+<img width="82%" src="https://trophy.ryglcloud.net/?username=AriesN2503&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=6" alt="GitHub Trophies" />
 
 </div>
 
