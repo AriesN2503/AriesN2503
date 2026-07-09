@@ -1,6 +1,9 @@
 name: Update WakaTime Stats
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
