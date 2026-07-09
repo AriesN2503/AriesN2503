@@ -120,7 +120,7 @@ My work combines UI/UX thinking with practical engineering: REST API integration
 <br />
 <br />
 
-<img width="96%" src="https://trophy.ryglcloud.net/?username=AriesN2503&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=6&amp;title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub trophies" />
+<img width="96%" src="https://trophy.ryglcloud.net/?username=AriesN2503&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=6&amp;title=Stars,Followers,Commits,Repositories,PullRequest,Issues" alt="GitHub trophies" />
 
 </div>
 
@@ -171,7 +171,7 @@ My work combines UI/UX thinking with practical engineering: REST API integration
 
 <div align="center">
 
-<img width="96%" src="https://metrics.lecoq.io/AriesN2503?template=classic&amp;base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&amp;config.timezone=Asia%2FHo_Chi_Minh&amp;plugin.achievements=true&amp;plugin.languages=true&amp;plugin.languages.sections=most-used%2Crecently-used&amp;plugin.habits=true&amp;plugin.habits.facts=true&amp;plugin.habits.charts=true&amp;plugin.isocalendar=true&amp;plugin.isocalendar.duration=full-year" alt="GitHub metrics dashboard" />
+<img width="82%" src="https://metrics.lecoq.io/AriesN2503?template=classic&amp;base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&amp;config.timezone=Asia%2FHo_Chi_Minh&amp;plugin.achievements=true&amp;plugin.languages=true&amp;plugin.languages.sections=most-used%2Crecently-used&amp;plugin.habits=true&amp;plugin.habits.facts=true&amp;plugin.habits.charts=true&amp;plugin.isocalendar=true&amp;plugin.isocalendar.duration=full-year" alt="GitHub metrics dashboard" />
 
 </div>
 
