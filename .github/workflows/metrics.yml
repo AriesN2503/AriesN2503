@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Generate github-metrics.svg
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
